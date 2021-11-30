@@ -1,0 +1,5 @@
+C:\Users\Sergio Rodriguez\Desktop\SEXTO CUATRIMESTRE\MATERIAS_SEXTO_CUATRIMESTRE\PROGRAMACION V\Programa_Clases_C#\obj\Debug\net5.0\Programa_Clases_C#.csproj.AssemblyReference.cache
+C:\Users\Sergio Rodriguez\Desktop\SEXTO CUATRIMESTRE\MATERIAS_SEXTO_CUATRIMESTRE\PROGRAMACION V\Programa_Clases_C#\obj\Debug\net5.0\Programa_Clases_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio Rodriguez\Desktop\SEXTO CUATRIMESTRE\MATERIAS_SEXTO_CUATRIMESTRE\PROGRAMACION V\Programa_Clases_C#\obj\Debug\net5.0\Programa_Clases_C#.AssemblyInfoInputs.cache
+C:\Users\Sergio Rodriguez\Desktop\SEXTO CUATRIMESTRE\MATERIAS_SEXTO_CUATRIMESTRE\PROGRAMACION V\Programa_Clases_C#\obj\Debug\net5.0\Programa_Clases_C#.AssemblyInfo.cs
+C:\Users\Sergio Rodriguez\Desktop\SEXTO CUATRIMESTRE\MATERIAS_SEXTO_CUATRIMESTRE\PROGRAMACION V\Programa_Clases_C#\obj\Debug\net5.0\Programa_Clases_C#.csproj.CoreCompileInputs.cache

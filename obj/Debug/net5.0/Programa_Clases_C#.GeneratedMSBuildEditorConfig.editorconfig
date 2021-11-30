@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Programa_Clases_C_
+build_property.ProjectDir = c:\Users\Sergio Rodriguez\Desktop\SEXTO CUATRIMESTRE\MATERIAS_SEXTO_CUATRIMESTRE\PROGRAMACION V\Programa_Clases_C_SHARP\
